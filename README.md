@@ -6,5 +6,5 @@ IRC chat client in < 60 lines of code.
 curl -sL zeekay.io/say-hi
 ```
 
-[gitter-url]: https://gitter.im/zeekay/say-hi
+[gitter-url]: https://gitter.im/zeekay/hi
 [gitter-image]: https://img.shields.io/badge/gitter-say_hi-brightgreen.svg
