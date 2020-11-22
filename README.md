@@ -3,7 +3,7 @@ IRC chat client in < 60 lines of code.
 
 ## Usage
 ```bash
-curl zeekay.chat | python
+curl -L zeekay.chat | python
 ```
 
 [gitter-url]: https://gitter.im/zeekay/hi
